@@ -1,0 +1,16 @@
+
+body{
+    align-items: center;
+    margin-right: 100vh;
+    background-image: linear-gradient(to right,red,blue);
+
+}
+
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 150%;
+}
